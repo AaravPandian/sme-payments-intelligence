@@ -1,0 +1,14 @@
+# Generated database and private local files
+*.sqlite
+*.sqlite3
+*.db
+.env
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.streamlit/secrets.toml
+coverage.xml
+.coverage

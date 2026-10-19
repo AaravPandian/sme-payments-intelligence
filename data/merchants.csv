@@ -1,0 +1,121 @@
+merchant_id,merchant_name,industry,city,onboarded_date
+M0001,Glasgow Health & Wellness Co 001,Health & Wellness,Glasgow,2024-03-26
+M0002,London Health & Wellness Co 002,Health & Wellness,London,2024-01-12
+M0003,Nottingham Retail Co 003,Retail,Nottingham,2025-07-20
+M0004,Leeds Retail Co 004,Retail,Leeds,2024-07-18
+M0005,Glasgow Professional Services Co 005,Professional Services,Glasgow,2025-01-29
+M0006,Nottingham Health & Wellness Co 006,Health & Wellness,Nottingham,2025-01-20
+M0007,Leeds Food & Beverage Co 007,Food & Beverage,Leeds,2025-04-19
+M0008,London Professional Services Co 008,Professional Services,London,2024-03-17
+M0009,Edinburgh Retail Co 009,Retail,Edinburgh,2024-05-30
+M0010,Bristol Food & Beverage Co 010,Food & Beverage,Bristol,2025-06-26
+M0011,Manchester Professional Services Co 011,Professional Services,Manchester,2024-02-25
+M0012,Nottingham Health & Wellness Co 012,Health & Wellness,Nottingham,2025-07-12
+M0013,London Professional Services Co 013,Professional Services,London,2024-11-11
+M0014,Leeds Retail Co 014,Retail,Leeds,2024-08-29
+M0015,Edinburgh E-commerce Co 015,E-commerce,Edinburgh,2025-02-09
+M0016,Edinburgh Health & Wellness Co 016,Health & Wellness,Edinburgh,2024-06-05
+M0017,Edinburgh Health & Wellness Co 017,Health & Wellness,Edinburgh,2024-07-06
+M0018,Edinburgh Hospitality Co 018,Hospitality,Edinburgh,2024-11-08
+M0019,Cardiff Food & Beverage Co 019,Food & Beverage,Cardiff,2024-09-06
+M0020,Cardiff Food & Beverage Co 020,Food & Beverage,Cardiff,2025-03-03
+M0021,Glasgow Health & Wellness Co 021,Health & Wellness,Glasgow,2025-03-14
+M0022,Edinburgh Health & Wellness Co 022,Health & Wellness,Edinburgh,2024-06-20
+M0023,Birmingham Hospitality Co 023,Hospitality,Birmingham,2025-07-30
+M0024,Liverpool Professional Services Co 024,Professional Services,Liverpool,2024-09-13
+M0025,Glasgow Health & Wellness Co 025,Health & Wellness,Glasgow,2025-05-19
+M0026,London Hospitality Co 026,Hospitality,London,2025-03-13
+M0027,Cardiff Professional Services Co 027,Professional Services,Cardiff,2024-04-28
+M0028,Nottingham E-commerce Co 028,E-commerce,Nottingham,2025-05-08
+M0029,Cardiff Retail Co 029,Retail,Cardiff,2024-05-24
+M0030,Bristol E-commerce Co 030,E-commerce,Bristol,2024-11-08
+M0031,Bristol E-commerce Co 031,E-commerce,Bristol,2024-10-23
+M0032,Birmingham E-commerce Co 032,E-commerce,Birmingham,2024-08-17
+M0033,Bristol Retail Co 033,Retail,Bristol,2025-06-14
+M0034,Leeds Food & Beverage Co 034,Food & Beverage,Leeds,2024-10-18
+M0035,Manchester Professional Services Co 035,Professional Services,Manchester,2024-03-30
+M0036,Nottingham E-commerce Co 036,E-commerce,Nottingham,2024-10-24
+M0037,Cardiff E-commerce Co 037,E-commerce,Cardiff,2024-05-22
+M0038,Cardiff E-commerce Co 038,E-commerce,Cardiff,2025-08-22
+M0039,Edinburgh Health & Wellness Co 039,Health & Wellness,Edinburgh,2025-02-07
+M0040,Cardiff E-commerce Co 040,E-commerce,Cardiff,2025-02-25
+M0041,Nottingham Food & Beverage Co 041,Food & Beverage,Nottingham,2024-01-10
+M0042,Bristol Professional Services Co 042,Professional Services,Bristol,2024-03-24
+M0043,Leeds Food & Beverage Co 043,Food & Beverage,Leeds,2025-06-28
+M0044,London Food & Beverage Co 044,Food & Beverage,London,2024-07-11
+M0045,Liverpool Hospitality Co 045,Hospitality,Liverpool,2024-06-17
+M0046,Birmingham Food & Beverage Co 046,Food & Beverage,Birmingham,2024-11-07
+M0047,Nottingham Health & Wellness Co 047,Health & Wellness,Nottingham,2024-05-20
+M0048,London Retail Co 048,Retail,London,2024-08-29
+M0049,Glasgow Professional Services Co 049,Professional Services,Glasgow,2024-10-27
+M0050,London Retail Co 050,Retail,London,2024-05-26
+M0051,Nottingham E-commerce Co 051,E-commerce,Nottingham,2024-01-14
+M0052,Leeds Professional Services Co 052,Professional Services,Leeds,2025-07-21
+M0053,Glasgow E-commerce Co 053,E-commerce,Glasgow,2025-08-22
+M0054,Birmingham Professional Services Co 054,Professional Services,Birmingham,2024-01-02
+M0055,Glasgow Retail Co 055,Retail,Glasgow,2025-08-07
+M0056,Cardiff Professional Services Co 056,Professional Services,Cardiff,2024-10-20
+M0057,Manchester Food & Beverage Co 057,Food & Beverage,Manchester,2024-03-04
+M0058,Birmingham Food & Beverage Co 058,Food & Beverage,Birmingham,2024-08-09
+M0059,Leeds Retail Co 059,Retail,Leeds,2024-03-25
+M0060,Liverpool E-commerce Co 060,E-commerce,Liverpool,2024-05-08
+M0061,Birmingham Professional Services Co 061,Professional Services,Birmingham,2024-10-26
+M0062,Liverpool Health & Wellness Co 062,Health & Wellness,Liverpool,2025-04-12
+M0063,Cardiff E-commerce Co 063,E-commerce,Cardiff,2024-01-08
+M0064,Bristol Professional Services Co 064,Professional Services,Bristol,2024-04-26
+M0065,Cardiff Professional Services Co 065,Professional Services,Cardiff,2024-05-19
+M0066,Bristol Food & Beverage Co 066,Food & Beverage,Bristol,2025-03-26
+M0067,Leeds Food & Beverage Co 067,Food & Beverage,Leeds,2024-03-31
+M0068,Birmingham Food & Beverage Co 068,Food & Beverage,Birmingham,2024-05-24
+M0069,Cardiff Health & Wellness Co 069,Health & Wellness,Cardiff,2024-07-18
+M0070,Manchester Hospitality Co 070,Hospitality,Manchester,2025-06-12
+M0071,Glasgow Food & Beverage Co 071,Food & Beverage,Glasgow,2024-11-01
+M0072,Glasgow Professional Services Co 072,Professional Services,Glasgow,2024-02-15
+M0073,Leeds Professional Services Co 073,Professional Services,Leeds,2025-02-06
+M0074,Bristol Food & Beverage Co 074,Food & Beverage,Bristol,2024-05-22
+M0075,Leeds Health & Wellness Co 075,Health & Wellness,Leeds,2024-07-18
+M0076,Glasgow Food & Beverage Co 076,Food & Beverage,Glasgow,2024-07-14
+M0077,Nottingham Food & Beverage Co 077,Food & Beverage,Nottingham,2025-02-07
+M0078,Cardiff E-commerce Co 078,E-commerce,Cardiff,2025-08-04
+M0079,Liverpool Retail Co 079,Retail,Liverpool,2024-09-29
+M0080,Bristol Health & Wellness Co 080,Health & Wellness,Bristol,2024-02-22
+M0081,Glasgow E-commerce Co 081,E-commerce,Glasgow,2025-01-07
+M0082,Edinburgh Hospitality Co 082,Hospitality,Edinburgh,2025-08-21
+M0083,Cardiff Professional Services Co 083,Professional Services,Cardiff,2025-04-04
+M0084,Birmingham E-commerce Co 084,E-commerce,Birmingham,2024-12-04
+M0085,Edinburgh Health & Wellness Co 085,Health & Wellness,Edinburgh,2024-07-22
+M0086,Manchester E-commerce Co 086,E-commerce,Manchester,2025-05-31
+M0087,Leeds Health & Wellness Co 087,Health & Wellness,Leeds,2024-09-17
+M0088,Leeds Food & Beverage Co 088,Food & Beverage,Leeds,2025-01-21
+M0089,Manchester Hospitality Co 089,Hospitality,Manchester,2025-01-10
+M0090,Birmingham Professional Services Co 090,Professional Services,Birmingham,2024-01-26
+M0091,Leeds Food & Beverage Co 091,Food & Beverage,Leeds,2024-01-09
+M0092,Manchester Hospitality Co 092,Hospitality,Manchester,2024-02-04
+M0093,Glasgow Hospitality Co 093,Hospitality,Glasgow,2025-03-03
+M0094,Liverpool Hospitality Co 094,Hospitality,Liverpool,2025-08-14
+M0095,London Health & Wellness Co 095,Health & Wellness,London,2024-01-14
+M0096,Leeds Retail Co 096,Retail,Leeds,2024-11-11
+M0097,Liverpool Retail Co 097,Retail,Liverpool,2024-02-25
+M0098,Leeds Retail Co 098,Retail,Leeds,2024-01-14
+M0099,Glasgow Health & Wellness Co 099,Health & Wellness,Glasgow,2024-03-17
+M0100,Liverpool Health & Wellness Co 100,Health & Wellness,Liverpool,2024-02-11
+M0101,Bristol Health & Wellness Co 101,Health & Wellness,Bristol,2025-01-28
+M0102,Birmingham Hospitality Co 102,Hospitality,Birmingham,2024-04-26
+M0103,Bristol Professional Services Co 103,Professional Services,Bristol,2025-06-08
+M0104,Bristol Health & Wellness Co 104,Health & Wellness,Bristol,2024-09-18
+M0105,Edinburgh E-commerce Co 105,E-commerce,Edinburgh,2024-11-30
+M0106,Liverpool Health & Wellness Co 106,Health & Wellness,Liverpool,2025-08-17
+M0107,Birmingham Health & Wellness Co 107,Health & Wellness,Birmingham,2024-10-02
+M0108,Bristol Retail Co 108,Retail,Bristol,2024-08-13
+M0109,Nottingham E-commerce Co 109,E-commerce,Nottingham,2025-07-28
+M0110,Edinburgh Hospitality Co 110,Hospitality,Edinburgh,2024-11-09
+M0111,Liverpool Hospitality Co 111,Hospitality,Liverpool,2024-08-07
+M0112,Manchester Professional Services Co 112,Professional Services,Manchester,2024-01-08
+M0113,Cardiff Food & Beverage Co 113,Food & Beverage,Cardiff,2024-10-04
+M0114,London Professional Services Co 114,Professional Services,London,2024-07-29
+M0115,Manchester E-commerce Co 115,E-commerce,Manchester,2024-06-08
+M0116,Edinburgh E-commerce Co 116,E-commerce,Edinburgh,2024-05-16
+M0117,Glasgow Retail Co 117,Retail,Glasgow,2025-05-30
+M0118,London Retail Co 118,Retail,London,2025-01-30
+M0119,Leeds Professional Services Co 119,Professional Services,Leeds,2024-10-30
+M0120,London E-commerce Co 120,E-commerce,London,2025-08-05
